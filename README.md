@@ -4,4 +4,4 @@ Wello Horld :)
 
 
 fast_notes
-[] How can I connect my current netbeans project to a specific repo of mine?
+- [ ]  How can I connect my current netbeans project to a specific repo of mine?
