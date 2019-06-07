@@ -12,7 +12,9 @@ fast_notes
   - [X]   It's binded.
   - [X]   If you dont have a local repo, you can creat it in two ways.  
       1: Clone an existing remote repo;  
-      2: create a local repo from a local working directory.  
+      2: Create a local repo from a local working directory.  
+  - [X]   If you cloned, you have the connection.
+  - [ ]   If you initialised, you can probably build a connection. But how?
       
 <br><br>
 - [ ]   ?
