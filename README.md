@@ -5,10 +5,10 @@ Wello Horld :)
 
 fast_notes  
 
-- [ ] How can I connect my current netbeans project to a specific repo of mine?
-  - [X] Clone & Merge the remote; Push the local; That's it.
+- [X] How can I connect my current netbeans project to a specific repo of mine?
+  - [X] Move your workdir (NBP) to the directory, that contain the local .git; Add+; Commit; Push to remote repo;
 <br><br>
-- [ ] Has the remote settign binded to NetBeans Project, or is it global?
+- [X] Has the remote settign binded to NetBeans Project, or is it global?
   - [X] It's binded.
   - [X] If you dont have a local repo, you can creat it in two ways.  
       1: Clone an existing remote repo;  
@@ -28,16 +28,17 @@ fast_notes
               - [X] OK then! How can I merge my current WD to my existing local repo, and push it to remot?
                 - [X] May I just move the WD into the existing local repo?
                   - [X] Proper way: Move & Add & Commit & Push
-- [ ] How can I check this?
-  - [ ] If you initialised, you can probably build a connection. But how?
-  - [ ] Can I create repo with the content of an exitsting working directory?
-      
+  - [X] If you initialised, you can probably build a connection. But how?
+    - [X] Don't create new local repo for a new project. Use an existing one.
+    - [X] Initialisition create a new empty local repo.
+      - [X] One repo could enought for a person. Use dictionaries inside your repo insted of different repos.
+
 <br><br>
 - [X] How can I delete a repo? Is it enought to delete the .git file? Can I anyway?
   - [X] Yes, you can! Yes it's enought.
 
 <br><br>
-- [ ] ?
+- [ ] How can I separate my publications within my public repo?
   - [X] !
 
 <br><br>
