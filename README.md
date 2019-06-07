@@ -9,7 +9,12 @@ fast_notes
   - [X] !
 <br><br>
 
-- [X] I have different ways to handl my Git repo? NetBeans built in handler; GitBash; GitHubDesktop;
+- [ ] How can I create a Package within a package?
+  - [X] !
+<br><br>
+
+- [X] I have different ways to handle my Git repo. NetBeans built in handler; GitBash; GitHubDesktop;
+  -[X] Hypotetically you can create files directly in the parent directory of .git out of focus of NetBeans; If you use netBeans builtin git handler, you have to consider this fact; I suppose you to use the NB for your notes as well.
 - [X] I understend the basics of Git.
 - [X] I continue my studies in the topoik of java design-patterns.
 
