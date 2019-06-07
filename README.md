@@ -38,8 +38,9 @@ fast_notes
   - [X] Yes, you can! Yes it's enought.
 
 <br><br>
-- [ ] How can I separate my publications within my public repo?
-  - [X] !
+- [X] How can I separate my publications within my public repo?
+  - [X] What would I separate? The NBproject are in different directories; The README.md can be used to list links for different projects.
+  - [ ] Can I create dinamic sites within GitHub?
 
 <br><br>
 - [ ] ?
