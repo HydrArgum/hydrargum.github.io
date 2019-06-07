@@ -10,7 +10,7 @@ fast_notes
 <br><br>
 - [ ]   Has the remote settign binded to NetBeans Project, or is it global?
   - [X]   It's binded.
-  - [X]   
+  - [X]   asdf
 <br><br>
 - [ ]   ?
   - [X]   !
