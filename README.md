@@ -5,6 +5,16 @@ Wello Horld :)
 
 fast_notes  
 
+- [ ] ?
+  - [X] !
+<br><br>
+
+- [X] I have different ways to handl my Git repo? NetBeans built in handler; GitBash; GitHubDesktop;
+- [X] I understend the basics of Git.
+- [X] I continue my studies in the topoik of java design-patterns.
+
+<br><br>
+
 - [X] How can I connect my current netbeans project to a specific repo of mine?
   - [X] Move your workdir (NBP) to the directory, that contain the local .git; Add+; Commit; Push to remote repo;
 <br><br>
@@ -40,16 +50,6 @@ fast_notes
 <br><br>
 - [X] How can I separate my publications within my public repo?
   - [X] What would I separate? The NBproject are in different directories; The README.md can be used to list links for different projects.
-  - [ ] Can I create dinamic sites within GitHub?
+  - [X] Can I create dinamic sites within GitHub?
+    - [X] First I have to learn to create sites in traditional way. XAMP etc.
 
-<br><br>
-- [ ] ?
-  - [X] !
-
-<br><br>
-- [ ] ?
-  - [X] !
-
-<br><br>
-- [ ] ?
-  - [X] !
