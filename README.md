@@ -12,9 +12,11 @@ fast_notes
   - [X]   It's binded.
   - [X]   If you dont have a local repo, you can creat it in two ways.  
       1: Clone an existing remote repo;  
-      2: Create a local repo from a local working directory.  
+      2: Initialise a local repo into a new empty dierctory.  (e.g. c:\Users\username\Documents\GitHub\NewRepoName)
   - [X]   If you cloned, you have the connection.
+  - [ ]   If you initialised, you can move the existing working directory to this local repo. Will it working?
   - [ ]   If you initialised, you can probably build a connection. But how?
+  - [ ]   Can I create repo with the content of an exitsting working directory?
       
 <br><br>
 - [ ]   ?
