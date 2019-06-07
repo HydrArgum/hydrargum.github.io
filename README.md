@@ -20,9 +20,9 @@ fast_notes
           - [X] The source and the .git are in the same location, but the source is not in the .git directory.    
               * c:\Users\nkr\Documents\GitHub\portfolio\DesignPatterns\
               * c:\Users\nkr\Documents\GitHub\portfolio\.git 
-              
-          - [X] .git related this project is in the same parent directory (c:\Users\nkr\Documents\GitHub\portfolio\.git\)
-      - [ ]   How can I check this?
+          - [ ] So, Shoud I move my current working director (my project) into the same dir, where my .git is?
+            - [X]  And the answer is...
+- [ ]   How can I check this?
   - [ ]   If you initialised, you can probably build a connection. But how?
   - [ ]   Can I create repo with the content of an exitsting working directory?
       
