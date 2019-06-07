@@ -22,7 +22,7 @@ fast_notes
       * c:\Users\nkr\Documents\GitHub\portfolio\.git
     - [X]  So, Shoud I move my current working director (my project) into the same dir, where my .git is?
     - [X]  Actually, I can open my project in NetBeans. But you'd better use your existing repo instead of a new one.
-      - [X]  Question is: Can I see this as a repo? (Apropo: I just copyed this project into the same dir, as .git)
+_____ - [X]  Question is: Can I see this as a repo? (Apropo: I just copyed this project into the same dir, as .git)
       - [X]  E.g. Can I push it into an existing Remote Repo?
       - [X]  No! It couse a damage in the existing Remote Repo. It will overwrite the Master, or somthing like this.
       - [X]  OK then! How can I merge my current WD to my existing local repo, and push it to remot?
